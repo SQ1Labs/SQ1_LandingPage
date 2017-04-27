@@ -1,0 +1,22 @@
+.app {
+  .brand {
+    position: absolute;
+    $size: 38px;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    /*background: url('../Home/squareonelabs_logo.png') no-repeat center center;*/
+    background: url('../../../static/Logo.svg') no-repeat center center;
+    width: $size * 5.5;
+    height: $size;
+    background-size: 100%;
+    margin: 0;
+  }
+  nav :global(.fa) {
+    font-size: 2em;
+    line-height: 20px;
+  }  
+}
+/*.appContent {
+  margin: 50px 0; // for fixed navbar
+}*/
