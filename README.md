@@ -1,7 +1,7 @@
 # Square One Labs
 ### What is Square One Labs
 
-Square One Labs is a startup studio in pursuit of better messaging experiences. We’re a technology company that provides you with messaging services that help you automate and enhance every day tasks. No more app downloads, questionable targeted ads, mobile browser pop ups or calling and being put on hold. In other words, we’re here to help you get things done.
+Square One Labs is a startup studio powering frictionless messaging experiences. We’re a technology company that provides you with messaging services that help you automate and enhance every day tasks. No more app downloads, questionable targeted ads, mobile browser pop ups or calling and being put on hold. In other words, we’re here to help you get things done.
 
 ### Who are the people behind Square One Labs
 
